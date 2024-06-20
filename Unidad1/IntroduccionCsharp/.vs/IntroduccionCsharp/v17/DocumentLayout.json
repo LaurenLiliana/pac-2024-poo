@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laure\\OneDrive\\Documentos\\POO\\Unidad1\\IntroduccionCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76E760FA-A695-4058-A309-B43499E39EE4}|IntroduccionCsharp\\IntroduccionCsharp.csproj|c:\\users\\laure\\onedrive\\documentos\\poo\\unidad1\\introduccioncsharp\\introduccioncsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E760FA-A695-4058-A309-B43499E39EE4}|IntroduccionCsharp\\IntroduccionCsharp.csproj|solutionrelative:introduccioncsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E760FA-A695-4058-A309-B43499E39EE4}|IntroduccionCsharp\\IntroduccionCsharp.csproj|c:\\users\\laure\\onedrive\\documentos\\poo\\unidad1\\introduccioncsharp\\introduccioncsharp\\ejemplos\\arreglo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E760FA-A695-4058-A309-B43499E39EE4}|IntroduccionCsharp\\IntroduccionCsharp.csproj|solutionrelative:introduccioncsharp\\ejemplos\\arreglo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E760FA-A695-4058-A309-B43499E39EE4}|IntroduccionCsharp\\IntroduccionCsharp.csproj|c:\\users\\laure\\onedrive\\documentos\\poo\\unidad1\\introduccioncsharp\\introduccioncsharp\\ejemplos\\listas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E760FA-A695-4058-A309-B43499E39EE4}|IntroduccionCsharp\\IntroduccionCsharp.csproj|solutionrelative:introduccioncsharp\\ejemplos\\listas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arreglo.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\POO\\Unidad1\\IntroduccionCsharp\\IntroduccionCsharp\\Ejemplos\\Arreglo.cs",
+              "RelativeDocumentMoniker": "IntroduccionCsharp\\Ejemplos\\Arreglo.cs",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\POO\\Unidad1\\IntroduccionCsharp\\IntroduccionCsharp\\Ejemplos\\Arreglo.cs",
+              "RelativeToolTip": "IntroduccionCsharp\\Ejemplos\\Arreglo.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T04:54:06.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\POO\\Unidad1\\IntroduccionCsharp\\IntroduccionCsharp\\Program.cs",
+              "RelativeDocumentMoniker": "IntroduccionCsharp\\Program.cs",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\POO\\Unidad1\\IntroduccionCsharp\\IntroduccionCsharp\\Program.cs",
+              "RelativeToolTip": "IntroduccionCsharp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:17:48.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Listas.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\POO\\Unidad1\\IntroduccionCsharp\\IntroduccionCsharp\\Ejemplos\\Listas.cs",
+              "RelativeDocumentMoniker": "IntroduccionCsharp\\Ejemplos\\Listas.cs",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\POO\\Unidad1\\IntroduccionCsharp\\IntroduccionCsharp\\Ejemplos\\Listas.cs",
+              "RelativeToolTip": "IntroduccionCsharp\\Ejemplos\\Listas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:17:47.012Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

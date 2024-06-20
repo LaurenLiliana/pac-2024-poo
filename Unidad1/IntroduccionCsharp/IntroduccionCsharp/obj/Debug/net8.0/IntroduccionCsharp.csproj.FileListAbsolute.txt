@@ -1,0 +1,14 @@
+C:\Users\Anthony Miranda\Documents\C#\POO\Unidad1\IntroduccionCsharp\IntroduccionCsharp\bin\Debug\net8.0\IntroduccionCsharp.exe
+C:\Users\Anthony Miranda\Documents\C#\POO\Unidad1\IntroduccionCsharp\IntroduccionCsharp\bin\Debug\net8.0\IntroduccionCsharp.deps.json
+C:\Users\Anthony Miranda\Documents\C#\POO\Unidad1\IntroduccionCsharp\IntroduccionCsharp\bin\Debug\net8.0\IntroduccionCsharp.runtimeconfig.json
+C:\Users\Anthony Miranda\Documents\C#\POO\Unidad1\IntroduccionCsharp\IntroduccionCsharp\bin\Debug\net8.0\IntroduccionCsharp.dll
+C:\Users\Anthony Miranda\Documents\C#\POO\Unidad1\IntroduccionCsharp\IntroduccionCsharp\bin\Debug\net8.0\IntroduccionCsharp.pdb
+C:\Users\Anthony Miranda\Documents\C#\POO\Unidad1\IntroduccionCsharp\IntroduccionCsharp\obj\Debug\net8.0\IntroduccionCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony Miranda\Documents\C#\POO\Unidad1\IntroduccionCsharp\IntroduccionCsharp\obj\Debug\net8.0\IntroduccionCsharp.AssemblyInfoInputs.cache
+C:\Users\Anthony Miranda\Documents\C#\POO\Unidad1\IntroduccionCsharp\IntroduccionCsharp\obj\Debug\net8.0\IntroduccionCsharp.AssemblyInfo.cs
+C:\Users\Anthony Miranda\Documents\C#\POO\Unidad1\IntroduccionCsharp\IntroduccionCsharp\obj\Debug\net8.0\IntroduccionCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Anthony Miranda\Documents\C#\POO\Unidad1\IntroduccionCsharp\IntroduccionCsharp\obj\Debug\net8.0\IntroduccionCsharp.dll
+C:\Users\Anthony Miranda\Documents\C#\POO\Unidad1\IntroduccionCsharp\IntroduccionCsharp\obj\Debug\net8.0\refint\IntroduccionCsharp.dll
+C:\Users\Anthony Miranda\Documents\C#\POO\Unidad1\IntroduccionCsharp\IntroduccionCsharp\obj\Debug\net8.0\IntroduccionCsharp.pdb
+C:\Users\Anthony Miranda\Documents\C#\POO\Unidad1\IntroduccionCsharp\IntroduccionCsharp\obj\Debug\net8.0\IntroduccionCsharp.genruntimeconfig.cache
+C:\Users\Anthony Miranda\Documents\C#\POO\Unidad1\IntroduccionCsharp\IntroduccionCsharp\obj\Debug\net8.0\ref\IntroduccionCsharp.dll

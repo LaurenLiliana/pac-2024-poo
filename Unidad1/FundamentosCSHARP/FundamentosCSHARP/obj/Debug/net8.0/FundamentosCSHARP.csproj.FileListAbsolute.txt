@@ -1,0 +1,14 @@
+C:\Users\laure\OneDrive\Documentos\POO\Unidad1\FundamentosCSHARP\FundamentosCSHARP\bin\Debug\net8.0\FundamentosCSHARP.exe
+C:\Users\laure\OneDrive\Documentos\POO\Unidad1\FundamentosCSHARP\FundamentosCSHARP\bin\Debug\net8.0\FundamentosCSHARP.deps.json
+C:\Users\laure\OneDrive\Documentos\POO\Unidad1\FundamentosCSHARP\FundamentosCSHARP\bin\Debug\net8.0\FundamentosCSHARP.runtimeconfig.json
+C:\Users\laure\OneDrive\Documentos\POO\Unidad1\FundamentosCSHARP\FundamentosCSHARP\bin\Debug\net8.0\FundamentosCSHARP.dll
+C:\Users\laure\OneDrive\Documentos\POO\Unidad1\FundamentosCSHARP\FundamentosCSHARP\bin\Debug\net8.0\FundamentosCSHARP.pdb
+C:\Users\laure\OneDrive\Documentos\POO\Unidad1\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\net8.0\FundamentosCSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laure\OneDrive\Documentos\POO\Unidad1\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\net8.0\FundamentosCSHARP.AssemblyInfoInputs.cache
+C:\Users\laure\OneDrive\Documentos\POO\Unidad1\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\net8.0\FundamentosCSHARP.AssemblyInfo.cs
+C:\Users\laure\OneDrive\Documentos\POO\Unidad1\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\net8.0\FundamentosCSHARP.csproj.CoreCompileInputs.cache
+C:\Users\laure\OneDrive\Documentos\POO\Unidad1\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\net8.0\FundamentosCSHARP.dll
+C:\Users\laure\OneDrive\Documentos\POO\Unidad1\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\net8.0\refint\FundamentosCSHARP.dll
+C:\Users\laure\OneDrive\Documentos\POO\Unidad1\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\net8.0\FundamentosCSHARP.pdb
+C:\Users\laure\OneDrive\Documentos\POO\Unidad1\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\net8.0\FundamentosCSHARP.genruntimeconfig.cache
+C:\Users\laure\OneDrive\Documentos\POO\Unidad1\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\net8.0\ref\FundamentosCSHARP.dll
